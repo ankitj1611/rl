@@ -1,2 +1,2 @@
 # RapidLeech-Min
-Minimum Version Of RapidLeech Version 430
+Mini Version Of RapidLeech rev.43 by [Neo! Team](https://ariadata.co)
